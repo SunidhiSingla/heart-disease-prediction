@@ -49,4 +49,7 @@ The output looks like : <br />
 
 ![](screenshots/img2.JPG)
 
+## Methodology
+![](Methodology.JPG)
 
+## Novelty
