@@ -44,6 +44,9 @@ The output looks like : <br />
 
 ![](screenshots/img2.JPG)
 
+![](screenshots/img3.JPG)
+
+![](screenshots/img4.JPG)
 ## Methodology
 ![](Methodology.JPG)
 
