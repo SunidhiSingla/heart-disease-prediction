@@ -3,7 +3,7 @@
 ## A Web Application to predict Heart-Disease using SVM  
 
 ### Technology Stack used in this project
-Python,Logistic Regression ,Flask, HTML, CSS, Heroku
+Python,SVM,Flask, HTML, CSS, Heroku
 
 ### 1. Load Dataset
 Heart-Disease-Prediction Original Data Set
@@ -38,6 +38,7 @@ Using SVM (Support Vector Machines) we build and train a model using human cell 
 ### 6. Deployment on Heroku
 
 You can find the deployed app at https://heart-disease-prediction1234.herokuapp.com/
+<br>
 The output looks like : <br />
 ![](screenshots/img1.JPG)
 
