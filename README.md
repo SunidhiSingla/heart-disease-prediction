@@ -48,6 +48,6 @@ The output looks like : <br />
 ![](Methodology.JPG)
 
 ## Novelty
-SVM model is used along with cross validation for optimization which gives the best accuracy.
-Predict the disease before it becoming fatal.
-Easy to use app.
+* SVM model is used along with cross validation for optimization which gives the best accuracy.
+* Predict the disease before it becoming fatal.
+* Easy to use app.
