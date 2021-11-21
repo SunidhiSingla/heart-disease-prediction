@@ -1,6 +1,6 @@
 # Heart-Disease-Prediction Web Application
 
-## A Web Application to predict Heart-Disease using SVM  (Deployed on Heroku)
+## A Web Application to predict Heart-Disease using SVM  
 
 
 ### 1.Project Requirements or Dependencies
@@ -44,5 +44,5 @@ Use this for prediction for model and to show the output
 
 ### 8. Deployment on Heroku
 
-https://heartdeseaseprediction.herokuapp.com/
+
 
