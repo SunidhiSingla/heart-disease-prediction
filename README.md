@@ -44,5 +44,9 @@ Use this for prediction for model and to show the output
 
 ### 8. Deployment on Heroku
 
+The output looks like : <br />
+![](screenshots/img1.JPG)
+
+![](screenshots/img2.JPG)
 
 
